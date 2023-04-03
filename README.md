@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **school projects**
 
-- 🌱 I’m currently learning **C++, Docker and Networking**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **ferganikheireddine09@gmail.com**
 
