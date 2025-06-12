@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kheir Eddine</h1>
-<h3 align="center">A software developer from Algeria, and a student at 42 Heilbronn, Germany.</h3>
+<h3 align="center">A software developer from Algeria, an AI Engineer in Paris, and a student at 42 Heilbronn, Germany.</h3>
 
 - 🔭 I’m currently working as an **Ai Engineer**
 
