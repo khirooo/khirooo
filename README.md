@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kheir Eddine</h1>
 <h3 align="center">A software developer from Algeria, and a student at 42 Heilbronn, Germany.</h3>
 
-- 🔭 I’m currently working on **school projects**
-
-- 🌱 I’m currently learning **Docker**
+- 🔭 I’m currently working as an **Ai Engineer**
 
 - 📫 How to reach me **ferganikheireddine09@gmail.com**
 
